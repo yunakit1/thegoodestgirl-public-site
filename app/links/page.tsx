@@ -26,15 +26,15 @@ export default function BambiLinks() {
       url: "https://chaturbate.com/yunakit", // ← change to your real username
       icon: "💦",
       color: "hover:bg-purple-600",
-      desc: "Live cam shows • obey me live"
+      desc: "Live cam shows"
     },
     {
       name: "Reddit",
       handle: "BeAGoodGirl4me_pls",
       url: "https://www.reddit.com/user/BeAGoodGirl4me_pls/", // ← change to your real username
-      icon: "💦",
-      color: "hover:bg-purple-600",
-      desc: "Live cam shows • obey me live"
+      icon: "🥵",
+      color: "hover:bg-rose-600",
+      desc: "My highlights and comments lolol"
     },
 
   ];
