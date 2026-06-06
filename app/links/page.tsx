@@ -14,20 +14,29 @@ export default function BambiLinks() {
     },
     {
       name: "OnlyFans",
-      handle: "thegoodestgirl",
-      url: "https://onlyfans.com/thegoodestgirl", // ← change to your real username
+      handle: "yunakit",
+      url: "https://onlyfans.com/yunakit", // ← change to your real username
       icon: "🔥",
       color: "hover:bg-pink-600",
       desc: "Full videos, nudes & custom content"
     },
     {
       name: "Chaturbate",
-      handle: "thegoodestgirl",
-      url: "https://chaturbate.com/thegoodestgirl", // ← change to your real username
+      handle: "yunakit",
+      url: "https://chaturbate.com/yunakit", // ← change to your real username
       icon: "💦",
       color: "hover:bg-purple-600",
       desc: "Live cam shows • obey me live"
     },
+    {
+      name: "Reddit",
+      handle: "BeAGoodGirl4me_pls",
+      url: "https://www.reddit.com/user/BeAGoodGirl4me_pls/", // ← change to your real username
+      icon: "💦",
+      color: "hover:bg-purple-600",
+      desc: "Live cam shows • obey me live"
+    },
+
   ];
 
   return (
