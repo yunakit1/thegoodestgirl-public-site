@@ -6,8 +6,8 @@ export default function BambiLinks() {
   const links = [
     {
       name: "Twitter / X",
-      handle: "@TheLilyAkari",
-      url: "https://twitter.com/TheLilyAkari",
+      handle: "@YunaMoths",
+      url: "https://twitter.com/YunaMoths",
       icon: "🐦",
       color: "hover:bg-sky-500",
       desc: "Daily slutty thoughts & updates"
