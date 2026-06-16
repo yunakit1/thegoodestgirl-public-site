@@ -20,6 +20,7 @@ export default function TheGoodestGirl() {
             <a href="#gallery" className="hover:text-pink-400 transition">Gallery</a>
             <a href="#offers" className="hover:text-pink-400 transition">What I Offer</a>
             <a href="#join" className="hover:text-pink-400 transition">Join Me</a>
+            <a href="/links" className="hover:text-pink-400 transition">Links</a>
           </div>
 
           <button
