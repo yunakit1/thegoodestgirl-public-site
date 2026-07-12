@@ -30,8 +30,8 @@ export default function BambiLinks() {
     },
     {
       name: "Reddit",
-      handle: "BeAGoodGirl4me_pls",
-      url: "https://www.reddit.com/user/BeAGoodGirl4me_pls/", // ← change to your real username
+      handle: "yuna-kit",
+      url: "https://www.reddit.com/user/yuna-kit/", // ← change to your real username
       icon: "🥵",
       color: "hover:bg-rose-600",
       desc: "My highlights and comments lolol"
